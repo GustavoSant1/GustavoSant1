@@ -1,13 +1,13 @@
 # Olá, eu sou o Gustavo Santos! 👋
 
-[cite_start]Atualmente sou estudante de **Engenharia de Software** [cite: 9, 34] e um entusiasta da resolução de problemas através do código. [cite_start]Minha trajetória na tecnologia começou na infraestrutura e no suporte técnico[cite: 14, 17, 39, 42], o que me deu uma base sólida para entender como os sistemas funcionam de ponta a ponta.
+Atualmente sou estudante de **Engenharia de Software**  e um entusiasta da resolução de problemas através do código. Minha trajetória na tecnologia começou na infraestrutura e no suporte técnico, o que me deu uma base sólida para entender como os sistemas funcionam de ponta a ponta.
 
 ---
 
 ### 🚀 O que estou explorando agora:
 - **Backend:** Mergulhando no ecossistema **Java** com o framework **Quarkus** e bancos de dados **MongoDB**.
 - **Frontend:** Construindo interfaces modernas e seguras com **React** e **TypeScript**.
-- [cite_start]**Automação:** Desenvolvendo scripts em **Python** para otimização de processos e análise de dados[cite: 10, 35].
+- **Automação:** Desenvolvendo scripts em **Python** para otimização de processos e análise de dados
 
 ---
 
