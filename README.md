@@ -26,4 +26,4 @@
 
 ### 📫 Como me encontrar:
 - **LinkedIn:** [https://www.linkedin.com/in/gustavo-henrique-04a818243/}
-- [cite_start]**Email:** gustavohj2003@gmail.com [cite: 4, 28]
+- [cite_start]**Email:** gustavohj2003@gmail.com
