@@ -15,7 +15,7 @@ Atualmente sou estudante de **Engenharia de Software**  e um entusiasta da resol
 - **Linguagens:** Java, Python, TypeScript, JavaScript.
 - **Frameworks:** Quarkus, React.js.
 - **Bancos de Dados:** MongoDB (NoSQL).
-- [cite_start]**Outros:** Git, GitHub, Pacote Office[cite: 5, 12, 29, 37].
+- **Outros:** Git, GitHub, Pacote Office.
 
 ---
 
