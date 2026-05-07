@@ -25,5 +25,5 @@ Atualmente sou estudante de **Engenharia de Software**  e um entusiasta da resol
 ---
 
 ### 📫 Como me encontrar:
-- **LinkedIn:** [https://www.linkedin.com/in/gustavo-henrique-04a818243/}
+- **LinkedIn:**https://www.linkedin.com/in/gustavo-henrique-04a818243
 -**Email:** gustavohj2003@gmail.com
