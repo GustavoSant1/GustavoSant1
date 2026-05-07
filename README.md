@@ -20,7 +20,7 @@ Atualmente sou estudante de **Engenharia de Software**  e um entusiasta da resol
 ---
 
 ### 📈 Minha Jornada Profissional:
-[cite_start]Minha experiência prática envolve desde a configuração de sistemas complexos de monitoramento [cite: 18, 20, 43, 45] [cite_start]até o desenvolvimento de documentação técnica e fluxos de trabalho[cite: 21, 46]. [cite_start]Essa bagagem me ensinou a ter um olhar analítico e focado na entrega de soluções que realmente funcionam para o usuário final[cite: 16, 41].
+Minha experiência prática envolve desde a configuração de sistemas complexos de monitoramento  até o desenvolvimento de documentação técnica e fluxos de trabalho. Essa bagagem me ensinou a ter um olhar analítico e focado na entrega de soluções que realmente funcionam para o usuário final.
 
 ---
 
