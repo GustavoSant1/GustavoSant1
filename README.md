@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o Gustavo Santos! 👋
 
-<!--
-**GustavoSant1/GustavoSant1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[cite_start]Atualmente sou estudante de **Engenharia de Software** [cite: 9, 34] e um entusiasta da resolução de problemas através do código. [cite_start]Minha trajetória na tecnologia começou na infraestrutura e no suporte técnico[cite: 14, 17, 39, 42], o que me deu uma base sólida para entender como os sistemas funcionam de ponta a ponta.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 O que estou explorando agora:
+- **Backend:** Mergulhando no ecossistema **Java** com o framework **Quarkus** e bancos de dados **MongoDB**.
+- **Frontend:** Construindo interfaces modernas e seguras com **React** e **TypeScript**.
+- [cite_start]**Automação:** Desenvolvendo scripts em **Python** para otimização de processos e análise de dados[cite: 10, 35].
+
+---
+
+### 🛠️ Tecnologias e Ferramentas:
+- **Linguagens:** Java, Python, TypeScript, JavaScript.
+- **Frameworks:** Quarkus, React.js.
+- **Bancos de Dados:** MongoDB (NoSQL).
+- [cite_start]**Outros:** Git, GitHub, Pacote Office[cite: 5, 12, 29, 37].
+
+---
+
+### 📈 Minha Jornada Profissional:
+[cite_start]Minha experiência prática envolve desde a configuração de sistemas complexos de monitoramento [cite: 18, 20, 43, 45] [cite_start]até o desenvolvimento de documentação técnica e fluxos de trabalho[cite: 21, 46]. [cite_start]Essa bagagem me ensinou a ter um olhar analítico e focado na entrega de soluções que realmente funcionam para o usuário final[cite: 16, 41].
+
+---
+
+### 📫 Como me encontrar:
+- **LinkedIn:** [https://www.linkedin.com/in/gustavo-henrique-04a818243/}
+- [cite_start]**Email:** gustavohj2003@gmail.com [cite: 4, 28]
